@@ -1,3 +1,3 @@
 # My games
 
-* [MyFirstGame](HelloWorld)
+* [MyFirstGame](HelloWorld/FirstAttempt.html)
